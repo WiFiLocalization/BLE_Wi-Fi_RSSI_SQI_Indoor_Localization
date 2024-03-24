@@ -1,5 +1,8 @@
 # Wi-Fi BLE RSSI SQI Localization dataset
 
+![](DatasetA.png)
+
+
 Wi-Fi BLE RSSI for positioning / Indoor Localization in 4 different locations and using 18 different APs
 
 Data is only measured at the Router Side
